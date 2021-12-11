@@ -1,0 +1,20 @@
+{
+    "111" : {
+    "name" : "Кальян",
+    "cost" : 1200,
+    "description" : "Кальян, хороший дорогой",
+    "image" : "../images/kalian1.jpeg"
+    },
+    "112" : {
+    "name" : "Кальян2",
+    "cost" : 1300,
+    "description" : "Кальян, хороший дорогой",
+    "image" : "../ugli.shop/images/kalian2.jpeg"
+    },
+    "111" : {
+    "name" : "Кальян3",
+    "cost" : 1400,
+    "description" : "Кальян, хороший дорогой",
+    "image" : "../ugli.shop/images/kalian3.jpeg"
+    }
+}
